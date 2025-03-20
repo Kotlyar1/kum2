@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.telegram" />
+          <option value="ui.input_data" />
+          <option value="ui.view_data" />
+          <option value="logger.*" />
+          <option value="calc.*" />
+          <option value="data_transformer.*" />
+          <option value="main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
